@@ -7,6 +7,8 @@ In the code below, the user is asked to enter three numbers, and then prints a s
 (Hint: If you see a red squiggly line in the code, that probably means there is a syntax error there.)
 '''
 
+print("Welcome to the peasant's lottery. It seems like you're another foolish peasant who thinks luck will win them enough gold to escape poverty. Why did you become a peasant in the first place, then? Your luck will be decided by whatever three numbers you submit.")
+
 num1 = int(input("Give a number to the attendant: "))
 
 num2 = int(input("Give another number to the attendant: "))

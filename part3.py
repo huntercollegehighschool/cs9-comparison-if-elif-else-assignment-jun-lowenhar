@@ -21,6 +21,8 @@ not divisible by 3
 
 #write your code below
 
+print("Welcome, peasant. I am the overlord! You wish to submit a number in hopes of being richly rewarded. So be it. But be warned... if you submit a bad number, you shall be banished!")
+
 number = int(input("Enter a number for your overlord, you lowly peasant: "))
 
 if number < 0:

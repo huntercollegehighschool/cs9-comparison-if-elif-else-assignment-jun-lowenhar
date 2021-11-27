@@ -24,6 +24,8 @@ not a month
 
 #start writing your code below
 
+print("Welcome, peasant. I am the great knower. You wish to know how many days are in a month. I shall tell.")
+
 month = input("Please write the month you are inquiring about on this slip of parchment. Feel priviliged. A peasant like you should never be allowed to write on court-quality parchment: ")
 
 if month == "January":

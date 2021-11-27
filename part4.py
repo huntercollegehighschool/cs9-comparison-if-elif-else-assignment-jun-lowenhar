@@ -25,6 +25,8 @@ opposite
 
 #start writing your code below
 
+print("Welcome to the prison gates! Can't you see freedom, tempting you from just beyond? But before you can be free, you must enter two correct numbers. Choose wisely because inside, I really don't think any of you deserve this. After all, you're peasants and I'm an aristocrat. But whatever.")
+
 number1 = int(input("Enter a number into the golden chalice: "))
 
 number2 = int(input("Enter another number into the chalice if you know what's good for you: "))

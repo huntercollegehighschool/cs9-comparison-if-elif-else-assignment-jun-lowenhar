@@ -22,4 +22,4 @@ elif(num1 == num2 or num2 == num3 or num1 == num3):
   print("exactly two of the numbers are equal. take two sacks of gold.")
 
 else:
-  print("none of the numbers are equal. you get one sack of gold for participation, though.")
+  print("none of the numbers are equal. you get one sack of gold for participation, though. you're welcome.")

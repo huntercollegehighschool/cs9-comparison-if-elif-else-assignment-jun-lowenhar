@@ -42,4 +42,4 @@ elif (number > 0) and ((number % 3) == 0):
   print("AND it is divisible by three! good job! you shall be brought to live at the finest palace in our court!")
 
 elif (number > 0) and ((number % 3) > 0):
-  print("alas, 'tisn't divisible by three. greater rewards were to be offered, but apparently not to you. leave with your gold.")
+  print("alas, it isn't divisible by three. greater rewards were to be offered, but apparently not to you. leave with your gold.")

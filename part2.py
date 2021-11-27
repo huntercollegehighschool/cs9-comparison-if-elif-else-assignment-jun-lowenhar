@@ -7,17 +7,17 @@ In the code below, the user is asked to enter three numbers, and then prints a s
 (Hint: If you see a red squiggly line in the code, that probably means there is a syntax error there.)
 '''
 
-num1 = int(input("Enter a number: "))
+num1 = int(input("Give a number to the attendant: "))
 
-num2 = int(input("Enter another number: "))
+num2 = int(input("Give another number to the attendant: "))
 
-num3 = int(input("Enter another number: "))
+num3 = int(input("Hand over another number, it's three numbers that we asked for ain't it: "))
 
 if(num1 == num2 == num3):
-  print("All three numbers are equal.")
+  print("all three numbers are equal! take three sacks of gold.")
 
 elif(num1 == num2 or num2 == num3 or num1 == num3):
-  print("Exactly two of the numbers are equal.")
+  print("exactly two of the numbers are equal. take two sacks of gold.")
 
 else:
-  print("None of the numbers are equal.")
+  print("none of the numbers are equal. you get one sack of gold for participation, though.")

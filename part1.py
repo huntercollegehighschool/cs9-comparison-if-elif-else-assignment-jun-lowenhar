@@ -15,11 +15,13 @@ Enter another number: 5
 The smallest number is 2
 '''
 
-number1 = int(input("Enter a number: "))
+print("Welcome to the kingdom tax booth. Today's tax is three numbers. You will be permitted to keep the smallest of those numbers.")
 
-number2 = int(input("Enter another number: "))
+number1 = int(input("Hand over your first number to the tax collector: "))
 
-number3 = int(input("Enter another number: "))
+number2 = int(input("Hand over your second number to the tax collector: "))
+
+number3 = int(input("Hand over your third number to the tax collector: "))
 
 if number1 < number2:
   smol = number1
@@ -33,4 +35,4 @@ if smol < number3:
 else:
   smallest = number3
 
-print ("The smallest number is", smallest) 
+print ("The smallest number is", smallest, "only. You may keep it. Thank you for bowing down to the overlord. Now leave!") 

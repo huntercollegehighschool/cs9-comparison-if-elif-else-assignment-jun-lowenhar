@@ -35,4 +35,4 @@ if smol < number3:
 else:
   smallest = number3
 
-print ("The smallest number is", smallest, "only. You may keep it. Thank you for bowing down to the overlord. Now leave!") 
+print ("The smallest number is", smallest, "only. You may keep it. Take it! Thank you for bowing down to the overlord. Now leave!") 

@@ -68,4 +68,4 @@ elif (month == "january") or (month == "february") or (month == "march") or (mon
   print("don't they teach you to capitalize proper nouns?! i knew i shouldn't have wasted this parchment on a peasant.")
 
 else:
-  print("that isn't a month! i knew i shouldn't have wasted this parchment on a peasant.")
+  print("that isn't a month! i knew i shouldn't have wasted this parchment on a peasant. thanks a lot.")

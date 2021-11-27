@@ -25,7 +25,7 @@ opposite
 
 #start writing your code below
 
-number1 = int(input("Enter a number into the chalice: "))
+number1 = int(input("Enter a number into the golden chalice: "))
 
 number2 = int(input("Enter another number into the chalice if you know what's good for you: "))
 

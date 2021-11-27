@@ -47,4 +47,4 @@ elif ((number1 < 0) and (number2 < 0)):
   print("no! TWO NEGATIVES! guards, throw this prisoner off yonder cliff!!")
 
 elif ((number1 < 0) and (number2 > 0)) or ((number1 > 0) and (number2 < 0)):
-  print("a negative... and a positive... i can see why you're in prison. back to your cell!")
+  print("a negative... and a positive... i can see why you're in prison. back to your cell! scram!")

@@ -26,7 +26,7 @@ not a month
 
 print("Welcome, peasant. I am the great knower. You wish to know how many days are in a month. I shall tell.")
 
-month = input("Please write the month you are inquiring about on this slip of parchment. Feel priviliged. A peasant like you should never be allowed to write on court-quality parchment: ")
+month = input("Please write the month you are inquiring about on this slip of parchment. Feel privileged. A peasant like you should never be allowed to write on court-quality parchment: ")
 
 if month == "January":
   print("ah, the month of january, when we celebrate the rebirth of the world. funny time to do it, seeing as it's so cold and dead all over. it has thirty-one days.")
@@ -35,7 +35,7 @@ elif month == "February":
   print("february, my least favorite month. oh, how dark and windy it is! it has twenty-eight days, but not always. i'm sure you wouldn't understand if i tried to explain it to you. after all, you're a peasant.")
 
 elif month == "March":
-  print("march! life begins to return to the land. oh, how i always look forward to being able to stroll the grouns without a heavy cloak. it has thirty-one days.")
+  print("march! life begins to return to the land. oh, how i always look forward to being able to stroll the grounds without a heavy cloak. it has thirty-one days.")
 
 elif month == "April":
   print("april is an awfully dreary month. the rain makes all impatient for the beauty of summer to begin. it has thirty days.")
@@ -68,4 +68,4 @@ elif (month == "january") or (month == "february") or (month == "march") or (mon
   print("don't they teach you to capitalize proper nouns?! i knew i shouldn't have wasted this parchment on a peasant.")
 
 else:
-  print("that isn't a month! i knew i shouldn't have wasted this parchement on a peasant.")
+  print("that isn't a month! i knew i shouldn't have wasted this parchment on a peasant.")
